@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/StarLabsCashDrawer.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4fadee5f6204e3117d7a98790d3e1ac0/jetified-StarLabsCashDrawer/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4fadee5f6204e3117d7a98790d3e1ac0/jetified-StarLabsCashDrawer/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4fadee5f6204e3117d7a98790d3e1ac0/jetified-StarLabsCashDrawer/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

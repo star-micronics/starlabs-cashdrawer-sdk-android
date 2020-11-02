@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CashDrawer SDK</string>
+    <string name="discovery">Find Cash Drawers</string>
+    <string name="get_status">Check status</string>
+    <string name="pop_drawer">Open drawer</string>
+    <string name="port_label">Drawer Port Number</string>
+</resources>
