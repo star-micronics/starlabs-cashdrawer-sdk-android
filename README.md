@@ -37,5 +37,13 @@ The following table outlines how the DIP switches should be configured to assign
 
 <img width="685" alt="viv_pid1" src="https://github.com/user-attachments/assets/50049b44-1382-4590-a83f-02e14c975359" />
 
+## USB Interface PIDs
+The PID changes based on the DIP switch settings (USB ID). Here’s how the USB ID relates to the PID:
+
+- USB ID 1011: Default PID
+- USB IDs 1012 - 1018: Custom PIDs, assigned based on the DIP switch configurations.
+  
+This customization allows users to track multiple drawers and distinguish them within their software environment.
+
 ## Documentation
 [API Reference](https://starmicronics.altervista.org/cashdrawersdk/documentation/)
