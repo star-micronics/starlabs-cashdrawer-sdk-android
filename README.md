@@ -27,5 +27,15 @@ To access the **CashDrawer** class
 
 The **CashDrawer** class provides functions for discovery, checking status and opening the CashDrawer.
 
+## USB Cash Drawer PID/VID Information
+The PID (Product ID) of our USB cash drawers can change based on the DIP switch settings. This feature is intentional in case users have multiple drawers and want them to be distinguishable by software.
+
+The VID (Vendor ID) for Star Micronics USB cash drawers is 0519 (in HEX). The PID, however, can vary depending on the DIP switch settings on the back of the cash drawer, which control the USB ID.
+
+## DIP Switch Settings for USB IDs
+The following table outlines how the DIP switches should be configured to assign a specific USB ID. The default factory setting is USB ID 1011, with all switches set to 0 (OFF).
+
+<img width="685" alt="viv_pid1" src="https://github.com/user-attachments/assets/50049b44-1382-4590-a83f-02e14c975359" />
+
 ## Documentation
 [API Reference](https://starmicronics.altervista.org/cashdrawersdk/documentation/)
