@@ -1,6 +1,6 @@
 # USB CashDrawer SDK
-SDK for SMD2 Max and CD3 Value series USB Cash Drawers.  
-More info on the Cash Drawers can be found on our [website](https://www.starmicronics.com/pages/pos-cash-register-drawers).
+SDK for Star CD5 USB Cash Drawer.  
+More info on the Cash Drawer can be found on our [website](https://starmicronics.com/product/max-series-cash-drawers-cd5/).
 
 This SDK is distributed as an Android Library (AAR) and a sample app is provided to demonstrate usage.  
 
@@ -18,7 +18,6 @@ Run the included Android Studio project or add the AAR to you own project.
 ## Adding Dependencies
 
 File :arrow_right: Project Structure :arrow_right: Dependencies :arrow_right: JAR dependency
-![Add Dependencies](https://starmicronics.altervista.org/cashdrawersdk/documentation/images/add-dependencies.jpg)
 
 ## Add your imports
 
@@ -45,5 +44,4 @@ The PID changes based on the DIP switch settings (USB ID). Here’s how the USB 
   
 This customization allows users to track multiple drawers and distinguish them within their software environment.
 
-## Documentation
-[API Reference](https://starmicronics.altervista.org/cashdrawersdk/documentation/)
+
