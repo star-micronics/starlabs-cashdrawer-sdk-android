@@ -44,4 +44,8 @@ The PID changes based on the DIP switch settings (USB ID). Here’s how the USB 
   
 This customization allows users to track multiple drawers and distinguish them within their software environment.
 
+## Documentation
+
+[API Reference](https://oakeredolu.github.io/starlabs-cashdrawer-sdk-android-apiguide/)
+ 
 
